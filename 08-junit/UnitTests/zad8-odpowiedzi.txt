@@ -1,0 +1,5 @@
+3.1 Testy przestają działać po zmianie na BeforeAll, ponieważ metoda setup musi być statyczna w takim wypadku.
+4.1 Metoda test1 zostanie oznaczona jako Error natomiast test2 jako Failure.
+4.2 JUnit oczekuje na wyjątek.
+5.1 Analiza ścieżek to typ testowania blackbox.
+5.2 W metodzie calculate znajdują się 4 ścieżki.
